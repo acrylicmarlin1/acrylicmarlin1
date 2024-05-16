@@ -1,14 +1,14 @@
 ## Welcome
 ### My main account --> ***[AcrylicMarlin](https://github.com/AcrylicMarlin)***
-<p>
 
+<p>
     </a>
-      <a target="_blank" href="https://github.com/acrylicmarlin1"> -->
-      <img align="right" src="https://komarev.com/ghpvc/?username=acrylicmarlin1&color=282828&label=Profile+visits&style=flat-square" alt="Profile views"> -->
+      <a target="_blank" href="https://github.com/acrylicmarlin1">
+      <img align="right" src="https://komarev.com/ghpvc/?username=acrylicmarlin1&color=282828&label=Profile+visits&style=flat-square" alt="Profile views">
     </a>
 </p>
 
-# Alternative account for use where I can't access my main account
+#### An alternative account for use where I can't access my main account
 
 
 #
