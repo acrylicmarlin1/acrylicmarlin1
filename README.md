@@ -19,6 +19,6 @@
         <img height="191em" src="http://github-readme-streak-stats.herokuapp.com/?user=acrylicmarlin1&theme=react" alt="My current streak">
         <img height="191em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acrylicmarlin1&layout=compact&theme=react&hide=css,html&langs_count=8" alt="My top languages">
         <!-- <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=acrylicmarlin1&theme=nord_dark" alt="My languages stats"> -->
-        <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=acrylicmarlin1&theme=github&bg_color=20232a&line=2d4854&point=56bcd9&color=ffffff" alt="My activity graph">
+<!--         <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=acrylicmarlin1&theme=github&bg_color=20232a&line=2d4854&point=56bcd9&color=ffffff" alt="My activity graph"> -->
     </a>
 </div
